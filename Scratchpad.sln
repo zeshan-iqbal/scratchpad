@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorCodeEnumerationWithResource", "ErrorCodeEnumerationWithResource\ErrorCodeEnumerationWithResource.csproj", "{DE4A467E-B5DB-4225-8600-264F1D74753A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerHostService", "ContainerHostService\ContainerHostService.csproj", "{4CA0BDBB-CEA5-458B-9135-712AD300B3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4A467E-B5DB-4225-8600-264F1D74753A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4A467E-B5DB-4225-8600-264F1D74753A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4A467E-B5DB-4225-8600-264F1D74753A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4A467E-B5DB-4225-8600-264F1D74753A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA0BDBB-CEA5-458B-9135-712AD300B3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA0BDBB-CEA5-458B-9135-712AD300B3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA0BDBB-CEA5-458B-9135-712AD300B3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA0BDBB-CEA5-458B-9135-712AD300B3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6C0B26-1EF3-4DC9-BFE0-951E076F54F9}
+	EndGlobalSection
+EndGlobal
